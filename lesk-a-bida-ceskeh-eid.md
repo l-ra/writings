@@ -1,8 +1,8 @@
 # tl;dr
 V Česku chybí funkční "online občanka". Chybí nástroj obdobné kvality, jako je OP kartička. Stát ji vydá, 
-vybaví sadou bezpečnostních prvků. Já si určím, komu ji ukážu. Každý si mlže rozhodnout, zda ji chce vidět a 
-jakou míru důvěry v ní vloží. V online světě stát začal (z donucení EU) vydávat elektornickou identitu, ale 
-omezuje její užití. eIdentita by byla daleko prospěšnější, pokud by by fungovala srovnatelně s fyzickou občanou 
+vybaví sadou bezpečnostních prvků. Já si určím, komu ji ukážu. Každý si může rozhodnout, zda ji chce vidět a 
+jakou míru důvěry v ní vloží. V online světě stát začal (z donucení EU) vydávat elektronickou identitu, ale 
+omezuje její užití. eIdentita by byla daleko prospěšnější, pokud by fungovala srovnatelně s fyzickou občankou 
 a stala se skutečnou "online občankou" 
 
 # Identita
