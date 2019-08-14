@@ -34,7 +34,9 @@ Banky po letech slepoty vůči online trhu s důvěrou připraví geniální pl�
 si to užijeme po svém". Sepíší si zákon na míru a svou lobby ho prosadí. Zprivatizují si online identitu pro 
 soukromoprávní užití a zároveň si zefektivní business, když si uzákoní, že pro plnění AML povinností identifikace klienta 
 si mohou uživat prostředky, které si samy vyrobí. Vznikl tak zákon ve své podstatě zbytečný ba dokonce škodlivý. 
-Fragmentuje, znepřehledňuje a křiví prostředí státem uznávane eIdentity. 
+Fragmentuje, znepřehledňuje a křiví prostředí státem uznávane eIdentity.
+
+A celé to zabalí do pozlátka, kdy se tváří jako spasitelé eGovernmentu, protože přišly s široce dostupnou eIdentitou.
 
 # Jak by to být mohlo
 "Online občanka" použitelná bez překážek kdekoli, kde je zájem obou stran. Míra zákonných záruk státu za "online občanku" 
@@ -42,6 +44,6 @@ shodná s mírou zákonných záruk za fyzickou občanku = žádná explicitní 
 pro identifikaci ale jako rovný s rovným s jinými možnými poskytovateli a pokud jim jsou kladeny povinnosti související 
 s online dokládáním identity, pak jako každý jiný subjekt použijí tutéž "online občanku". 
 
-> Ad slepota: již před lety jsme jako firma bankám radili - uchopte online identitu. Staňte se bodem důvěry v online světě.   
+> Ad slepota: již před lety jsme jako firma bankám radili - uchopte online identitu. Staňte se bodem důvěry v online světě. Tehdy vůbec nechápaly, k čemu by jim to mohlo být a kde to něco vynese.     
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Lesk a bída české eIdentity</span>, jehož autorem je <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Luděk Rašek</span>, podléhá licenci <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Uveďte původ 4.0 Mezinárodní </a>.
