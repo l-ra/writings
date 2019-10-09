@@ -48,23 +48,23 @@ Působnost na úseku elektronické identifikace
 
 1.  Ministerstvo
 
-a) plní úkoly podle čl. 9 a 10 přímo použitelného předpisu Evropské unie upravujícího elektronickou identifikaci1),
+a. plní úkoly podle čl. 9 a 10 přímo použitelného předpisu Evropské unie upravujícího elektronickou identifikaci1),
 
-b) plní úkoly jednotného kontaktního místa podle přímo použitelného předpisu Evropské unie upravujícího procesní opatření pro spolupráci mezi členskými státy v oblasti elektronické identifikace3),
+b. plní úkoly jednotného kontaktního místa podle přímo použitelného předpisu Evropské unie upravujícího procesní opatření pro spolupráci mezi členskými státy v oblasti elektronické identifikace3),
 
-c) kontroluje kvalifikované správce, kvalifikované poskytovatele a pověřené osoby,
+c. kontroluje kvalifikované správce, kvalifikované poskytovatele a pověřené osoby,
 
-d) vede evidenci udělených akreditací a jejich změn a zveřejňuje ji na svých internetových stránkách a
+d. vede evidenci udělených akreditací a jejich změn a zveřejňuje ji na svých internetových stránkách a
 
-e) uchovává údaje vedené v evidenci vydaných prostředků pro elektronickou identifikaci kvalifikovaného správce, který ukončil činnost, a tyto údaje zpřístupní tomu, kdo osvědčí právní zájem na jejich zpřístupnění, nebo stanoví-li to zákon.
+e. uchovává údaje vedené v evidenci vydaných prostředků pro elektronickou identifikaci kvalifikovaného správce, který ukončil činnost, a tyto údaje zpřístupní tomu, kdo osvědčí právní zájem na jejich zpřístupnění, nebo stanoví-li to zákon.
 
 2.  Správa základních registrů
 
-a) se vyjadřuje, zda systém elektronické identifikace žadatele o akreditaci umožňuje poskytnutí služby národního bodu,
+a. se vyjadřuje, zda systém elektronické identifikace žadatele o akreditaci umožňuje poskytnutí služby národního bodu,
 
-b) na základě vyrozumění kvalifikovaného poskytovatele **a spoléhající osoby** umožní poskytnutí služby národního bodu a
+b. na základě vyrozumění kvalifikovaného poskytovatele **a spoléhající osoby** umožní poskytnutí služby národního bodu a
 
-c) upozorňuje kvalifikovaného správce na změny údajů v evidenci vydaných prostředků pro elektronickou identifikaci.
+c. upozorňuje kvalifikovaného správce na změny údajů v evidenci vydaných prostředků pro elektronickou identifikaci.
 
 ...
 
