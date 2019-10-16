@@ -1,5 +1,6 @@
 > Převzatý obsah s newsletteru distribuovanéh Úřadem vlády v oblasti digitálního česka. Cílem tohoto přepisu je ukázka, jak digitálně publikovat lépe.
 
+------------
 
 14.10.2019
 
