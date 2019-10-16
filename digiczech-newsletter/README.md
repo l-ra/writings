@@ -135,4 +135,4 @@ Pražského hradu. Registrovat se budete moci [zde](https://snsu.cz/).
 _Pro odběr newsletteru nás kontaktujte na digiczech@vlada.cz_
 
 [www.digitalnicesko.cz](https://www.digitalnicesko.cz)
-![twitter](twitter.png) [@digiczech](https://twitter.com/@digiczech)@
+![twitter](twitter.png) [@digiczech](https://twitter.com/@digiczech)
