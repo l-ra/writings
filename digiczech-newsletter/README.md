@@ -1,4 +1,4 @@
-> Převzatý obsah s newsletteru distribuovanéh Úřadem vlády v oblasti digitálního česka. Cílem tohoto přepisu je ukázka, jak digitálně publikovat lépe.
+> Převzatý obsah newsletteru distribuovanéh Úřadem vlády v oblasti digitálního česka. Cílem tohoto přepisu je ukázka, jak digitálně publikovat lépe. **Použít PDF je pro obyčejný jen lehce strukturovaný text je neresponzivní nezpracovatelné zlo.** 
 
 ------------
 
