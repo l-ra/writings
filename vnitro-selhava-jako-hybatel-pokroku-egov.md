@@ -52,15 +52,10 @@ Pojďme se tedy podívat, jak se s těmito požadavky vyrovnalo Vnitro v návrhu
 > § 59
 
 > (1) Evidence občanských průkazů plní ve vztahu k dokumentům v ní vedeným úlohu elektronického systému spisové služby podle zákona upravujícího archivnictví a spisovou službu.
-
 > **(2) Národní standard pro elektronické systémy spisové služby se na evidenci občanských průkazů nepoužije; to neplatí v případě transakčního protokolu.**
-
 > (3) Správce evidence občanských průkazů zajistí, aby evidence občanských průkazů umožnila
-
 > a) export dat ve výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu,
-
 > b) označení dokumentu v ní vedeném spisovým znakem, skartačním znakem a skartační lhůtou podle spisového a skartačního plánu.
-
 > (4) Číslo žádosti o vydání občanského průkazu se považuje za spisovou značku.   
 
 <hr>
