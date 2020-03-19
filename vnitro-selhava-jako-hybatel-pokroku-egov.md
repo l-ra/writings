@@ -21,7 +21,9 @@ Nyní je tu návrh zákona o občanských průkazech. Vnitro se snaží elektron
 Digitální podpis si pro potřeby tohoto jednoho zákona Vnitro definovalo takto:
 
 <hr>
+
 >§ 19  - Žadatel o vydání občanského průkazu je povinen osobně se podepsat na žádost o vydání občanského průkazu **před úřední osobou podacího místa digitálním podpisem pro účely uvedení jeho podpisu v občanském průkazu. Digitálním podpisem se rozumí vlastní rukou latinským písmem provedené vyjádření vlastního jména, popřípadě jmen, a příjmení, popřípadě pouze příjmení, na podpisový tablet.** Digitální podpis žadatele o vydání občanského průkazu se nevyžaduje, pokud mu v jeho provedení brání těžko překonatelná překážka; podací místo uvede tuto skutečnost v žádosti o vydání občanského průkazu.
+
 <hr>
 
 Tento "digitální podpis" je pak v procesech vydávání občanky využit ještě při stvrzování správnosti žádosti a při převzetí občanky.
