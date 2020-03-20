@@ -65,7 +65,7 @@ Proč by se měli úředníci Vnitra zaobírat něčím, co chtějí po ostatní
 
 Závěrem jen povzdechnutí. Milé Vnitro, jsi ze zákona nositelem pokroku v českém eGov. Když už narazíš ve své vlastní agendě na "problém", zkus se zamyslet, jestli ho nemají i jiní. Zameť si před vlastním prahem a nekličkuj. Hledej koncepční řešení pro všechny úřady.
 
-PS: A neodpustí si ukázat vám ještě jednu perličku z návrhu: *§32 odst. 2) ... Žadatel o vydání občanského průkazu mladší 10 let je povinen seznámit se s výsledkem ověření funkčnosti nosiče dat, v němž jsou uvedeny biometrické údaje.* Asi se budu chodit dívat na úřad, jak to úředníci s malými dětmi budou zvládat.
+PS: A neodpustím si ukázat vám ještě jednu perličku z návrhu: *§32 odst. 2) ... Žadatel o vydání občanského průkazu mladší 10 let je povinen seznámit se s výsledkem ověření funkčnosti nosiče dat, v němž jsou uvedeny biometrické údaje.* Asi se budu chodit dívat na úřad, jak to úředníci s malými dětmi budou zvládat.
 
 
 
